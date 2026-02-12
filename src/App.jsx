@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from "react"
 import jobsData from "./jobs"
-import JobCard from "./JobCard"
+import JobCard from "./components/JobCard"
 import "./styles.css"
 
 function App() {
